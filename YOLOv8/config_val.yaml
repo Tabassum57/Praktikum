@@ -1,0 +1,7 @@
+path: /content/Data
+train: /content/Data/train
+val: /content/Data/val
+test: /content/Data/test
+
+nc: 1
+names: ['road']
