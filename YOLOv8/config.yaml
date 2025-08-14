@@ -1,0 +1,7 @@
+path: //home/sislam1/LIMU/data
+train: /home/sislam1/LIMU/data/train
+val: /home/sislam1/LIMU/data/val
+test: /home/sislam1/LIMU/data/test
+
+nc: 1
+names: ['road']
