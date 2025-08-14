@@ -1,0 +1,6 @@
+path: /content/cityscapes
+train: /content/cityscapes/train
+val: /content/cityscapes/val
+
+nc: 1
+names: ['road']
