@@ -1,6 +1,0 @@
-path: /content/kitti
-train: /content/kitti/train
-val: /content/kitti/val
-
-nc: 1
-names: ['road']
